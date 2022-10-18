@@ -1,0 +1,49 @@
+.formContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid green;
+    text-align: center;
+    padding: 0px 20px 15px 20px;
+    color: rgb(89, 231, 195);
+    border-radius: 20px;
+}
+
+.formContainer input {
+    text-align: center;
+    padding: 8px 15px;
+    border-radius: 20px;
+    outline: none;
+    margin: 5px 0;
+    font-size: 1rem;
+    border: 2px solid rgb(13, 31, 121);
+}
+
+label:not(.nam) {
+    margin-top: 8px;
+}
+
+label {
+    font-size: 1.4rem;
+}
+
+button[type="submit"] {
+    padding: 5px 10px;
+    outline: none;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+}
+
+button[type="submit"]:hover {
+    transform: scale(0.9);
+}
+
+.formContainer h2 {
+    color: gray;
+}
