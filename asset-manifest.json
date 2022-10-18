@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rEact-project/static/css/main.121ab8d0.css",
+    "main.js": "/rEact-project/static/js/main.874f79e5.js",
+    "static/js/787.ac34fb11.chunk.js": "/rEact-project/static/js/787.ac34fb11.chunk.js",
+    "index.html": "/rEact-project/index.html",
+    "main.121ab8d0.css.map": "/rEact-project/static/css/main.121ab8d0.css.map",
+    "main.874f79e5.js.map": "/rEact-project/static/js/main.874f79e5.js.map",
+    "787.ac34fb11.chunk.js.map": "/rEact-project/static/js/787.ac34fb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.121ab8d0.css",
+    "static/js/main.874f79e5.js"
+  ]
+}
